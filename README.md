@@ -1,2 +1,2 @@
-# Car price forecasting
+# Car prices forecasting
 
